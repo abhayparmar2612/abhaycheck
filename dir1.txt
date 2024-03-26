@@ -1,2 +1,5 @@
 my passion is to learn git and github.
-my hobby is cricket. and football.
+my hobby is cricket. and football.   
+ my passion also include coding and completing task.
+ i m passionate about machine learning.
+      
