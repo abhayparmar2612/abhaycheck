@@ -1,2 +1,14 @@
 this is for learning purpose.
 ;this is also for leanting purpost.
+a = 7
+A = 9
+print(a , A)
+x , y , z = "orange", "banana", "cherry"
+print(x,y,z)
+x = y = z = "orange"
+print(x, y, z)
+fruits = ["apple","banana","cherry"]
+x,y,z = fruits
+print(x)
+print(y)
+print(z)
