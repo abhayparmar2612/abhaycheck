@@ -13,3 +13,6 @@ print(x)
 print(y)
 print(z)
 print("everything...)
+
+I will make functions out of my learning
+at any cost and i will do it by myself.
