@@ -22,3 +22,5 @@ x =sum(3,4)
 print(x)
 the result would be 7
 the result would be also 7.0
+I am now good at machine learing.
+I am learning new tools and feels confidnet.
