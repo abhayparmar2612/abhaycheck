@@ -17,3 +17,9 @@ print("everything...)
 I will make functions out of my learning
 at any cost and i will do it by myself.
 I am right to the next course.
+the result would be also 7.0
+I am now good at machine learing.
+I am learning new tools and feels confidnet.
+hi i am confident now.
+def choose(f):
+print()('You are right' person with ambitions)
