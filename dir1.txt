@@ -28,3 +28,4 @@ hi i am confident now.
 def choose(f):
 print()('You are right' person with ambitions)
 def column(name):
+date:11/07/2024

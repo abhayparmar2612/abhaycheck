@@ -17,3 +17,4 @@ def choose(f):
 print()('You are right' person with ambitions)
 data= 30/06/2024
 time= 10:26
+date:11/07/2024
